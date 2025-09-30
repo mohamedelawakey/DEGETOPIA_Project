@@ -89,14 +89,7 @@ The dataset includes **augmented images** for better generalization.
 ---
 
 ## ✅ Results
-- Training accuracy: ~XX%  
-- Validation accuracy: ~XX%  
-- Test accuracy: ~XX%  
-- Confusion Matrix and classification reports generated  
-
-> *(Replace XX% with your actual results from training.)*
-
----
+--- acc = > 57 %
 
 ## 🚀 How to Run
 1. Clone this repo:
